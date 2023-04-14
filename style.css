@@ -26,6 +26,12 @@
   font-size: 32px;
   letter-spacing: 1rem;
   color: azure;
+  transition: all 1s linear;
+}
+
+.logo:hover {
+  color: purple;
+  letter-spacing: 0.3rem;
 }
 
 .fa-bars {
